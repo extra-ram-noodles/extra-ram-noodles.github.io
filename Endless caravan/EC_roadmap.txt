@@ -1,7 +1,9 @@
 The roadmap:
 	1. Describe the planet:
-		It is a planet whose surface is entirely covered in sand, and the only open bodies of water are located at the poles, huge lakes and collections of hot springs bursting with both geothermal activity and life, in comparison the deserts were barren before the race to land which would be a challenge with the uneven diffusion of heat caused by the planet’s slow rotation, while the subsolar point sits constantly at the high forty degrees celsius, the unlit portion sits well below -40°C.
-	2. Describe creatures' organs and biochemistry in low detail and Make the oldest common ancestors of fauna and of flora:
+		It is a planet whose surface is entirely covered in sand and rock. The only open bodies of water are located at the poles, huge lakes and collections of hot springs bursting with both geothermal activity and life. Existence outside the comfort of the lake as the uneven diffusion of heat caused by the planet’s slow rotation would need some tough organisms to endure, while the subsolar areas remain constantly at the high forty degrees, the unlit portion sits well below -40°C.
+		The planet is small, its radius around 3500km and its gravity’s acceleration about 6.5m/s, heaps lesser than earth.
+		A solar day spans 655.2 earth hours, the reason for its huge discrepancy between day and night temperatures.
+	2. Describe creatures' organs and biochemistry in low detail and Make the phylums:
 		Reproductive cells (- and +) are formed and mixed in an individual to make a zygote that can begin growing to be a genetic clone of the parent, called an uno, or two zygotes could merge and grow into conjoined clones of their respective parents, called a dos. When the merging happens, the analogue of hox genes changes in ways to form features that are not present in unos. Though at the end of the day, uno y uno son dos.
 A dos' two sets of gonads has each connecting to the other side, thus mixing the genes of the two conjoined individuals into the new zygote.
 	All life split to three known phylums coming from their respective common ancestors:
@@ -11,7 +13,8 @@ A dos' two sets of gonads has each connecting to the other side, thus mixing the
 		The first fauna to come on land are speculated to be a minimarerum species, followed by duramacitic omnivores, though the minimarerum had a huge headstart.
 		•phylum Sessilia: Photosynthesizing (though not always) sessile (who woulda guessed) organisms, taking advantage of the intense sunrays whilst combating the intense heat, drought, extreme cold, and herbivores. The common ancestor is unknown, but it's there somewhere.
 The first fauna to come on land are speculated to be a minimarerum species, followed by duramacitic omnivores, though the minimarerum had a huge headstart as duramacie were waiting for oxygen levels to increase.
-	2. Diversify the proto ecosystem of mobile creatures:
+	2. Diversify the proto ecosystem:
+		In the primordial soup, 
 		Skip a few dingusillion years and you'll find a few descendant species, such as:
 			•Watervines: Largely subterranean sessilins with above ground shrubbery, possessing hard shelled seeds that are ignored by all herbivores. They’re active in the heat and dormant in the cold
 			•Hermit trees: tree like organisms which only grow when a certain range of temperatures pass through, otherwise, it regresses into its insulating bark and goes into a period of dormancy until the next solar day.
@@ -26,4 +29,4 @@ The first fauna to come on land are speculated to be a minimarerum species, foll
 	3. Describe the beginnings of the caravan
 	4. Describe the mass convergent traits and behaviour plus the extreme specializations of some species
 
-Last session words: 1034
+Last session words: 1067
