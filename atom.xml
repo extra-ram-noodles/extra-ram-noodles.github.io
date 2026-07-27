@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>RAM's Gallery</title><link href="https://extra-ram-noodles.github.io/" rel="alternate"></link><link href="https://extra-ram-noodles.github.io/atom.xml" rel="self"></link><id>https://extra-ram-noodles.github.io/</id><updated>2026-07-27T02:00:00+03:00</updated><subtitle>RAM's corner of the internet!1!</subtitle><entry><title>Christopher Nolan's Odyssey</title><link href="https://extra-ram-noodles.github.io/the%20odyssey.html" rel="alternate"></link><published>2026-07-27T02:00:00+03:00</published><updated>2026-07-27T02:00:00+03:00</updated><author><name>RAM</name></author><id>tag:extra-ram-noodles.github.io,2026-07-27:/the%20odyssey.html</id><summary type="html">What I think about the Odyssey going into it almost blind.</summary><content type="html">&lt;h2&gt;Thoughts on The Odyssey&lt;/h2&gt;
+&lt;p&gt;I went to this movie with &lt;/p&gt;</content></entry><entry><title>Start</title><link href="https://extra-ram-noodles.github.io/start.html" rel="alternate"></link><published>2026-07-07T12:00:00+03:00</published><updated>2026-07-07T12:00:00+03:00</updated><author><name>RAM</name></author><id>tag:extra-ram-noodles.github.io,2026-07-07:/start.html</id><summary type="html">Starting the blog</summary><content type="html">&lt;p&gt;Old is gold they say, so ig I&amp;rsquo;m gonna start trying out this internet old concept and see what comes of it.
+Is it just me or is this text a bit small? Might change that.
+&lt;img alt="" src="media/Hungries.png"&gt;&lt;/p&gt;</content></entry><entry><title>Second Post</title><link href="https://extra-ram-noodles.github.io/second-post.html" rel="alternate"></link><published>2023-01-02T12:00:00+03:00</published><updated>2023-01-02T12:00:00+03:00</updated><author><name>RAM</name></author><id>tag:extra-ram-noodles.github.io,2023-01-02:/second-post.html</id><summary type="html">This is the second blog post, so you can see how it looks like on the front page.</summary><content type="html">&lt;h2&gt;Second Post&lt;/h2&gt;
+&lt;p&gt;This page serves no purpose :)&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Blag Screenshot" src="blag.png"&gt;&lt;/p&gt;</content></entry><entry><title>Hello World!</title><link href="https://extra-ram-noodles.github.io/hello-world.html" rel="alternate"></link><published>2023-01-01T12:00:00+03:00</published><updated>2023-01-01T12:00:00+03:00</updated><author><name>RAM</name></author><id>tag:extra-ram-noodles.github.io,2023-01-01:/hello-world.html</id><summary type="html">Hello there, this is the first blog post. You should read me first.</summary><content type="html">&lt;h2&gt;Hello World&lt;/h2&gt;
+&lt;p&gt;This is an example blog post. Internally, blag differentiates between &lt;strong&gt;pages&lt;/strong&gt;
+and &lt;strong&gt;articles&lt;/strong&gt;. Intuitively, pages are simple pages and articles are blog
+posts. The decision whether a document is a page or an article is made
+depending on the presence of the &lt;code&gt;date&lt;/code&gt; metadata element: Any document that
+contains the &lt;code&gt;date&lt;/code&gt; metadata element is an article, everything else a page.&lt;/p&gt;
+&lt;p&gt;This differentiation has consequences:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;blag uses different templates: &lt;code&gt;page.html&lt;/code&gt; and &lt;code&gt;article.html&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;only articles are collected in the Atom feed&lt;/li&gt;
+&lt;li&gt;only articles are aggregated in the tag pages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For more detailed information, please refer to the &lt;a href="https://blag.readthedocs.io"&gt;documentation&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Syntax Highlighting&lt;/h3&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;foo&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;bar&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="sd"&gt;&amp;quot;&amp;quot;&amp;quot;This is a docstring.&lt;/span&gt;
+
+&lt;span class="sd"&gt;    &amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+    &lt;span class="c1"&gt;# comment&lt;/span&gt;
+    &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="n"&gt;bar&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Syntax highlighting is done via &lt;a href="https://pygments.org"&gt;Pygments&lt;/a&gt;. For code blocks, blag
+generates the necessary CSS classes by default, which you can use to style your
+code using CSS. It provides you with a default light- and dark theme, for more
+information on how to generate a different theme, please refer to &lt;a href="https://pygments.org"&gt;Pygments&amp;rsquo;
+documentation&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Next Steps&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Adapt the files in &lt;code&gt;templates&lt;/code&gt; to your needs&lt;/li&gt;
+&lt;li&gt;Check out the files in &lt;code&gt;static&lt;/code&gt; and modify as needed&lt;/li&gt;
+&lt;li&gt;Add some content&lt;/li&gt;
+&lt;li&gt;Change the &lt;a href="favicon.ico"&gt;favicon.ico&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content></entry></feed>
